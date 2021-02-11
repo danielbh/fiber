@@ -13,6 +13,7 @@
   <a href="https://github.com/gofiber/fiber/blob/master/.github/README_es.md">
     <img height="20px" src="https://img.shields.io/badge/ES-flag.svg?color=555555&style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA3NTAgNTAwIj4NCjxwYXRoIGZpbGw9IiNjNjBiMWUiIGQ9Im0wLDBoNzUwdjUwMGgtNzUweiIvPg0KPHBhdGggZmlsbD0iI2ZmYzQwMCIgZD0ibTAsMTI1aDc1MHYyNTBoLTc1MHoiLz4NCjwvc3ZnPg0K">
   </a>
+<a href="https://app.fossa.com/projects/git%2Bgithub.com%2Fdanielbh%2Ffiber?ref=badge_shield" alt="FOSSA Status"><img src="https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanielbh%2Ffiber.svg?type=shield"/></a>
   <a href="https://github.com/gofiber/fiber/blob/master/.github/README_ja.md">
     <img height="20px" src="https://img.shields.io/badge/JA-flag.svg?color=555555&style=flat&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA5MDAgNjAwIj4NCjxwYXRoIGZpbGw9IiNmZmYiIGQ9Im0wLDBoOTAwdjYwMGgtOTAweiIvPg0KPGNpcmNsZSBmaWxsPSIjYmUwMDI2IiBjeD0iNDUwIiBjeT0iMzAwIiByPSIxODAiLz4NCjwvc3ZnPg0K">
   </a>
@@ -593,3 +594,6 @@ Copyright (c) 2019-present [Fenny](https://github.com/fenny) and [Contributors](
 -   [gopsutil](https://github.com/shirou/gopsutil/blob/master/LICENSE)
 -   [go-ole](https://github.com/go-ole/go-ole)
 -   [wmi](https://github.com/StackExchange/wmi)
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fdanielbh%2Ffiber.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fdanielbh%2Ffiber?ref=badge_large)
